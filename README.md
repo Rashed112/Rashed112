@@ -23,13 +23,13 @@ type StatusProvider interface {
 }
 
 type Developer struct {
-    Name      string            `json:"name"`
-    Role      string            `json:"role"`
-    Location  string            `json:"location"`
-    Stack     []string          `json:"stack"`
-    Focus     string            `json:"focus"`
-    Interests map[string]bool   `json:"interests"`
-    Contact   string            `json:"contact"`
+    Name         string            `json:"name"`
+    Role         string            `json:"role"`
+    Location     string            `json:"location"`
+    Stack        []string          `json:"stack"`
+    Interests    map[string]bool   `json:"interests"`
+    CurrentGoals []string          `json:"current_goals"`
+    Contact      string            `json:"contact"`
 }
 
 func NewBackendDev() *Developer {
@@ -38,12 +38,17 @@ func NewBackendDev() *Developer {
         Role:     "Backend Developer & Problem Solver",
         Location: "Dhaka, Bangladesh 🇧🇩",
         Stack:    []string{"Go", "Node.js", "C++", "PostgreSQL", "Docker"},
-        Focus:    "System Design & Competitive Programming",
         Interests: map[string]bool{
             "Microservices": true,
             "Open Source":   true,
             "Football":      true,
             "Anime":         true,
+        },
+        CurrentGoals: []string{
+            "Mastering System Design & Microservices",
+            "Building Scalable Backend Systems",
+            "Excelling in Competitive Programming",
+            "Contributing to Open Source",
         },
         Contact: "rashedzaman319@gmail.com",
     }
@@ -76,7 +81,7 @@ func main() {
 
 ### DevOps & Tools
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,arch,postman" alt="DevOps & Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,arch,postman,docker" alt="DevOps & Tools" />
 </div>
 
 <!--### Frontend (Bonus Skills)
@@ -92,24 +97,24 @@ func main() {
   <table>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
-        <br>
-        <a href="https://codeforces.com/profile/mrashedz" target="_blank">@mrashedz</a>
+        <a href="https://codeforces.com/profile/mrashedz" target="_blank">
+          <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+        </a>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-        <br>
-        <a href="https://www.leetcode.com/mrashedz" target="_blank">@mrashedz</a>
+        <a href="https://www.leetcode.com/mrashedz" target="_blank">
+          <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+        </a>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
-        <br>
-        <a href="https://www.codechef.com/users/rashed112" target="_blank">@rashed112</a>
+        <a href="https://www.codechef.com/users/rashed112" target="_blank">
+          <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+        </a>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
-        <br>
-        <a href="https://www.hackerrank.com/mrashed" target="_blank">@mrashed</a>
+        <a href="https://www.hackerrank.com/mrashed" target="_blank">
+          <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+        </a>
       </td>
     </tr>
   </table>
@@ -120,15 +125,25 @@ func main() {
 ## 🤝 Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/md-rashed" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:rashedzaman319@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/rashed112" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://linkedin.com/in/md-rashed" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="mailto:rashedzaman319@gmail.com">
+          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/rashed112" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -144,12 +159,12 @@ func main() {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rashed112&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
-<div align="center">
+<!--<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rashed112&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
-</div>
+</div>-->
 
 ---
-
+<!--
 ## 🎯 Current Goals
 
 - 🔍 **Learning**: Advanced System Design & Microservices Architecture
@@ -159,13 +174,14 @@ func main() {
 - 📚 **Sharing**: Technical knowledge through blog posts and tutorials
 
 ---
-
+-->
+<!--
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
 
 ---
-
+-->
 <!--<div align="center">
   <h3>Thanks for visiting! 😊</h3>
   <p>Feel free to connect with me and let's build something amazing together!</p>
