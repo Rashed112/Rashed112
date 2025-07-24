@@ -1,56 +1,174 @@
-<h1 align="center">Hi 👋, I'm Rashed</h1>
-<h3 align="center">Enjoy solving problems and exploring new technologies. Passionate about all kinds of self-improvement and really love to help others to improve as well.</h3>
+# 👋 Hi there, I'm Rashed
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rashed112&label=Profile%20views&color=0e75b6&style=flat" alt="rashed112" /> </p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2F81F7&background=FFFFFF00&center=true&vCenter=true&width=440&lines=Backend+Developer;Problem+Solver;Tech+Enthusiast;Competitive+Programmer" alt="Typing SVG" />
+</div>
 
-- 🌱 I’m currently improving **my problem solving skills**
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=rashed112&label=Profile%20views&color=2F81F7&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/rashed112?label=Followers&style=for-the-badge&color=2F81F7" alt="GitHub Followers" />
+</div>
 
-- 📫 How to reach me **rashedzaman319@gmail.com**
+---
 
-- ⚡ Fun fact **love football, love to watch anime, and read manga**
+## 🚀 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/md-rashed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-rashed" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/mrashedz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mrashedz" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mrashedz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mrashedz" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/rashed112" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rashed112" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mrashed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mrashed" height="30" width="40" /></a>
-<a href="https://https://www.hackerearth.com/@MRashed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="mrashed" height="30" width="40" /></a>
-<!-- <a href="https://stackoverflow.com/users/md-rashed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="md-rashed" height="30" width="40" /></a>
-<a href="https://fb.com/mrashedzaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mrashedzaman" height="30" width="40" /></a>
-<a href="https://twitter.com/rashedzaman_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rashedzaman_" height="30" width="40" /></a>
-</p> -->
+```golang
+package main
 
-<h3 align="left">Languages:</h3>
-<p align="left">
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-</a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+import "fmt"
 
-<h3 align="left">Technologies:</h3>
-<p align="left"> 
-<a href="https://nodejs.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="expressjs" width="40" height="40"/> </a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
-<a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" alt="graphql" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
-<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+type StatusProvider interface {
+    Status() string
+}
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rashed112&show_icons=true&locale=en&layout=compact" alt="rashed112" /></p>
+type Developer struct {
+    Name      string            `json:"name"`
+    Role      string            `json:"role"`
+    Location  string            `json:"location"`
+    Stack     []string          `json:"stack"`
+    Focus     string            `json:"focus"`
+    Interests map[string]bool   `json:"interests"`
+    Contact   string            `json:"contact"`
+}
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rashed112&show_icons=true&locale=en" alt="rashed112" /></p>
+func NewBackendDev() *Developer {
+    return &Developer{
+        Name:     "Rashed",
+        Role:     "Backend Developer & Problem Solver",
+        Location: "Dhaka, Bangladesh 🇧🇩",
+        Stack:    []string{"Go", "Node.js", "C++", "PostgreSQL", "Docker"},
+        Focus:    "System Design & Competitive Programming",
+        Interests: map[string]bool{
+            "Microservices": true,
+            "Open Source":   true,
+            "Football":      true,
+            "Anime":         true,
+        },
+        Contact: "rashedzaman319@gmail.com",
+    }
+}
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rashed112&" alt="rashed112" /></p>
+func (d *Developer) Status() string {
+    return "🟢 Available for collaboration"
+}
+
+func main() {
+    me := NewBackendDev()
+    var provider StatusProvider = me
+    fmt.Printf("Hi! I'm %s - %s\n", me.Name, provider.Status())
+}
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,c,go,js,java,ts,python" alt="Languages" />
+</div>
+
+### Backend Ecosystem & Databases
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,mongodb,mysql,postgresql,graphql,redis" alt="Backend Ecosystem & Databases" />
+</div>
+
+### DevOps & Tools
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,arch,postman" alt="DevOps & Tools" />
+</div>
+
+<!--### Frontend (Bonus Skills)
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" alt="Frontend" />
+</div>-->
+
+---
+
+## 🏆 Competitive Programming
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+        <br>
+        <a href="https://codeforces.com/profile/mrashedz" target="_blank">@mrashedz</a>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+        <br>
+        <a href="https://www.leetcode.com/mrashedz" target="_blank">@mrashedz</a>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+        <br>
+        <a href="https://www.codechef.com/users/rashed112" target="_blank">@rashed112</a>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+        <br>
+        <a href="https://www.hackerrank.com/mrashed" target="_blank">@mrashed</a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+  <a href="https://linkedin.com/in/md-rashed" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:rashedzaman319@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/rashed112" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rashed112&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashed112&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rashed112&theme=tokyonight" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rashed112&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+</div>
+
+---
+
+## 🎯 Current Goals
+
+- 🔍 **Learning**: Advanced System Design & Microservices Architecture
+- 🚀 **Building**: Scalable APIs and Backend Systems
+- 🏆 **Competing**: Regular participation in competitive programming contests
+- 🌟 **Contributing**: More open-source projects
+- 📚 **Sharing**: Technical knowledge through blog posts and tutorials
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
+
+---
+
+<!--<div align="center">
+  <h3>Thanks for visiting! 😊</h3>
+  <p>Feel free to connect with me and let's build something amazing together!</p>
+  
+  ⭐️ From [rashed112](https://github.com/rashed112)
+</div>-->
