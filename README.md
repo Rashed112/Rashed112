@@ -34,21 +34,20 @@ type Developer struct {
 
 func NewBackendDev() *Developer {
     return &Developer{
-        Name:     "Rashed",
+        Name:     "Md. Rashededuzzaman",
         Role:     "Backend Developer & Problem Solver",
-        Location: "Dhaka, Bangladesh 🇧🇩",
-        Stack:    []string{"Go", "Node.js", "C++", "PostgreSQL", "Docker"},
-        Interests: map[string]bool{
-            "Microservices": true,
-            "Open Source":   true,
-            "Football":      true,
-            "Anime":         true,
-        },
+        Stack:    []string{"C++", "Go", "Spring Boot", "Node.js", "MongoDB"},
         CurrentGoals: []string{
             "Mastering System Design & Microservices",
             "Building Scalable Backend Systems",
             "Excelling in Competitive Programming",
             "Contributing to Open Source",
+        },
+        Interests: map[string]bool{
+            "Microservices": true,
+            "Open Source":   true,
+            "Football":      true,
+            "Anime":         true,
         },
         Contact: "rashedzaman319@gmail.com",
     }
