@@ -81,7 +81,7 @@ func main() {
 
 ### DevOps & Tools
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,arch,postman,docker" alt="DevOps & Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,arch,postman,docker,latex" alt="DevOps & Tools" />
 </div>
 
 <!--### Frontend (Bonus Skills)
@@ -111,11 +111,11 @@ func main() {
           <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
         </a>
       </td>
-      <td align="center">
+      <!--<td align="center">
         <a href="https://www.hackerrank.com/mrashed" target="_blank">
           <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
         </a>
-      </td>
+      </td>-->
     </tr>
   </table>
 </div>
@@ -161,9 +161,10 @@ func main() {
 
 <!--<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rashed112&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
-</div>-->
+</div>
 
 ---
+-->
 <!--
 ## 🎯 Current Goals
 
